@@ -32,5 +32,3 @@ setImmediate(mostrarTema, "Phyton");
 //-----------------funcion setInterval-------------------
 // sirve para ejecutar codigo un numero infinito de veces  con un retrasi especifico de milisegundos
 setInterval(mostrarTema, 1000, "javascript");
-
-// ***************** modulo fs (file system) ******************
